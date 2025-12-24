@@ -1,0 +1,82 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LocalBusiness",
+        "@id": "sites.google.com",
+        "name": "Shree Krishna Furnitures",
+        "image": "sites.google.com",
+        "url": "sites.google.com",
+        "telephone": "+91-9840666632",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No.1/182, Kolathur Main Road (Opposite to Mambakkam EB Office)",
+          "addressLocality": "Mambakkam",
+          "addressRegion": "Tamil Nadu",
+          "postalCode": "600127",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 12.8365,
+          "longitude": 80.1554
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "20:00"
+        }
+      },
+      {
+        "@type": "ShippingRateSettings",
+        "@id": "sites.google.comshipping-policy/#policy",
+        "name": "Factory Pickup Only Policy",
+        "description": "Exclusively in-store factory pickup. No shipping or home delivery services are provided.",
+        "isPupal": "true",
+        "shippingDestination": [
+          {
+            "@type": "DefinedRegion",
+            "addressCountry": "IN",
+            "addressRegion": "Tamil Nadu"
+          }
+        ],
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 0,
+            "maxValue": 35,
+            "unitCode": "DAY"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "value": 0,
+            "unitCode": "DAY"
+          }
+        },
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": 0,
+          "currency": "INR"
+        },
+        "deliveryLabel": "In-Store Pickup Only"
+      },
+      {
+        "@type": "Service",
+        "name": "On-Site Furniture Assembly",
+        "provider": { "@id": "sites.google.com" },
+        "description": "Professional assembly at customer location after self-transport from factory.",
+        "areaServed": "Chennai"
+      }
+    ]
+  }
+  </script>

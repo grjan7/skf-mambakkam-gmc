@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<rss xmlns:g="base.google.com" version="2.0">
+  <channel>
+    <title>Shree Krishna Furnitures Local Feed</title>
+    <link>https://www.your-website.com</link> <!-- Replace with your actual website URL -->
+    <description>Custom wooden furniture made-to-order in Mambakkam</description>
+    
+    <!-- Product 1: Wooden Dining Table Set -->
+    <item>
+      <g:id>SKF_DT_001</g:id>
+      <g:title>Handcrafted Wooden Dining Table Set (Made-to-Order)</g:title>
+      <g:description>Premium custom-made wooden dining table set. Built to your specifications at our Mambakkam factory shop. Contact us for customization options.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability> <!-- Required for 'Pickup Later' -->
+      <g:price>45000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Baby &amp; Toddler Furniture &gt; High Chairs</g:google_product_category> <!-- Update this to the best fit -->
+      <g:identifier_exists>no</g:identifier_exists> <!-- Required for custom products without GTIN/MPN -->
+      <g:material>Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Brown</g:color> <!-- Provide an actual color -->
+      <g:gender>unisex</g:gender>
+      
+      <!-- Local Inventory & Made-to-Order Specific -->
+      <g:pickup_SLA>multi-week</g:pickup_SLA> <!-- Defines long lead time -->
+      <g:store_code>MAMBAKKAM_01</g:store_code> <!-- Must match your Google Business Profile store code -->
+    </item>
+
+    <!-- Product 2: Wooden Sofa Set -->
+    <item>
+      <g:id>SKF_SOFA_002</g:id>
+      <g:title>Custom Wooden Sofa Set (3+2 Seater)</g:title>
+      <g:description>Bespoke wooden sofa set, available for made-to-order production at our Mambakkam workshop. Durable and stylish.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>60000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Living Room Furniture &gt; Sofas &amp; Sectionals</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood, Fabric</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Teak Brown Frame, Beige Cushions</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+    
+    <!-- Product 3: Wooden Cot/Bed -->
+    <item>
+      <g:id>SKF_COT_003</g:id>
+      <g:title>Solid Wood King Size Cot/Bed (Made-to-Order)</g:title>
+      <g:description>Handcrafted king size wooden cot. Customize dimensions and wood type at our factory shop.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>35000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Beds &amp; Accessories &gt; Beds &amp; Bed Frames</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Solid Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Dark Brown</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+
+    <!-- Product 4: Wooden Benches -->
+    <item>
+      <g:id>SKF_BENCH_004</g:id>
+      <g:title>Wooden Garden/Dining Bench (Custom Sizes)</g:title>
+      <g:description>Durable wooden bench, perfect for dining areas or gardens. Made-to-order at Shree Krishna Furnitures, Mambakkam.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>8000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Chairs &gt; Benches</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Natural Wood</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+
+    <!-- Product 5: Wooden Chairs -->
+    <item>
+      <g:id>SKF_CHAIR_005</g:id>
+      <g:title>Set of 4 Wooden Dining Chairs</g:title>
+      <g:description>Classic wooden dining chairs. Sturdy and custom-built to match your existing dining table.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>12000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Chairs &gt; Dining Room Chairs</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Brown</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+
+    <!-- Product 6: Teapot Table -->
+    <item>
+      <g:id>SKF_TEAPOT_006</g:id>
+      <g:title>Small Wooden Teapot/Side Table</g:title>
+      <g:description>Compact wooden side table, ideal for living rooms or patios. Made-to-order item.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>4500.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Tables &gt; Accent Tables</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Brown</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+
+    <!-- Product 7: Modern 2-legged wooden TV table -->
+    <item>
+      <g:id>SKF_TV_007</g:id>
+      <g:title>Modern 2-Legged Wooden TV Console/Table</g:title>
+      <g:description>Unique minimalist two-legged wooden TV stand, custom built to your size requirements.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>22000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Entertainment Centers &amp; TV Stands</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Walnut Finish</g:color>
+      <g:gender>unisex</g:gender>
+      
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+
+    <!-- Product 8: Wooden framed knitted recliner chair -->
+    <item>
+      <g:id>SKF_RC_008</g:id>
+      <g:title>Wooden Framed Knitted Recliner Chair</g:title>
+      <g:description>Modern wooden recliner chair with comfortable knitted fabric seating. Custom made-to-order furniture.</g:description>
+      <g:link>www.your-website.com</g:link>
+      <g:image_link>www.your-website.com</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>15000.00 INR</g:price>
+      <g:brand>Shree Krishna Furnitures</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Furniture &gt; Chairs &gt; Recliners</g:google_product_category>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:material>Wood, Fabric</g:material>
+      <g:age_group>adult</g:age_group>
+      <g:color>Natural Frame, Grey Knit</g:color>
+      <g:gender>unisex</g:gender>
+
+      <g:pickup_SLA>multi-week</g:pickup_SLA>
+      <g:store_code>MAMBAKKAM_01</g:store_code>
+    </item>
+  </channel>
+</rss>
